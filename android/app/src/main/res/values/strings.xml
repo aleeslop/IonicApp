@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name"> MyAppPersonal</string>
+    <string name="title_activity_main"> MyAppPersonal</string>
+    <string name="package_name">com.MyAppPersonal.app</string>
+    <string name="custom_url_scheme">com.MyAppPersonal.app</string>
+</resources>
